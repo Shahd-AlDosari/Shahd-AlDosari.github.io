@@ -44,7 +44,7 @@ console.log("This is working");
     schemaCallback([covidTableSchema])
 };
 
-    myConnector.getData = function (table, doneCallback) {
+myConnector.getData = function (table, doneCallback) {
 
     };
 
