@@ -1,4 +1,4 @@
-console.log("This is working2!");
+console.log("This is working22!");
 
 (function () {
   var myConnector = tableau.makeConnector();
